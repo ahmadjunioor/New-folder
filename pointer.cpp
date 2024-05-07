@@ -11,3 +11,6 @@ class persegipanjang
         }
 };
 
+class segitiga
+{
+};
