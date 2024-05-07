@@ -13,7 +13,7 @@ class persegipanjang
 
 class segitiga
 {
-        public:
+    public:
         int tinggi, alas;
         int luassegitiga(int a, int t)
         {
@@ -24,5 +24,9 @@ class segitiga
         {
             return p.panjang;
         }
-
 };
+
+int main()
+{
+
+}
