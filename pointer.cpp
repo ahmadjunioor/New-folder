@@ -13,4 +13,5 @@ class persegipanjang
 
 class segitiga
 {
+  
 };
